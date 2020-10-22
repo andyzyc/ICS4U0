@@ -1,0 +1,6 @@
+Piece 1 in the input is Garen, which comes from the region of Demacia
+Piece 2 in the input is Ezreal, which comes from the region of Piltover
+Piece 3 in the input is Kalista, which comes from the region of ShadowIsles
+Ezreal now has a Chain Vest in their inventory
+Kalista is now a 2 star piece
+Ezreal costs the most, so it is likely that it is one of the most strongest pieces from the input

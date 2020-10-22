@@ -1,0 +1,3 @@
+Garen Demacia 1 Warlord Vanguard 1 true
+Ezreal Piltover 5 Elderwood Dazzler 5 false
+Kalista ShadowIsles 3 Cultist Duelist 3 false
