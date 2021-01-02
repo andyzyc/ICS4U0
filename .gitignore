@@ -23,6 +23,10 @@
 hs_err_pid*
 
 
-.idea
-out
-DataStructures.iml
+Algorithms/.idea
+Algorithms/out
+Algorithms/Algorithms.iml
+Algorithms/AlgorithmsReport.docx
+DataStructures/.idea
+DataStructures/out
+DataStructures/DataStructures.iml
